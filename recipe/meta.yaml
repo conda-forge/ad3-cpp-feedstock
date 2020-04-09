@@ -16,7 +16,7 @@ source:
 
 
 build:
-  number: 1000
+  number: 1001
 
 requirements:
   build:
@@ -35,8 +35,8 @@ test:
 
 about:
   home: https://github.com/DerThorsten/AD3
-  license: GPL3
-  license_family: GPL3
+  license: GPL-3.0-or-later
+  license_family: GPL
   license_file: LICENSE
   summary: 'AD3 Alternating Directions Dual Decomposition'
   description: 'AD3 Alternating Directions Dual Decomposition'
